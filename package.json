@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aleksandrakojic/nodejs-skaffold-app.git"
+    "url": "git+https://github.com/aleksandrakojic/nodejs-skaffold.git"
   },
   "author": "aleks",
   "license": "ISC",
